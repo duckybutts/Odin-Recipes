@@ -1,1 +1,81 @@
-<h1> Green Spaghetti </h1>
+<!-- Back To Home -->
+<h3> <a href="../index.html">Back </a> </h3>
+
+<h1>
+    <center> Green Spaghetti </center>
+</h1>
+
+<!-- Inset Image -->
+<center> <img src="../Images/spaghetti.jpg"> </center>
+
+<p>
+<h2> <u> Recipe: </u> </h2>
+</p>
+
+<h3> Ingredients </h3>
+
+<ul>
+    <li>
+        4 large poblano peppers
+    </li>
+    <li>
+        1/4 c. packed cilantro leaves
+    </li>
+    <li>
+        1 small yellow onion, chopped
+    </li>
+    <li>
+        2 cloves garlic, chopped
+    </li>
+    <li>
+        2 tbsp. butter
+    </li>
+    <li>
+        1/4 c. low-sodium vegetable stock or water
+    </li>
+    <li>
+        1 lb. spaghetti
+    </li>
+    <li>
+        4 oz. cream cheese, cubed
+    </li>
+    <li>
+        Kosher salt
+    </li>
+    <li>
+        Freshly ground black pepper
+    </li>
+
+
+</ul>
+
+<h3> Steps </h3>
+<ol>
+    <li>
+        Cook peppers on high on a baking sheet till blackened (foil)
+    </li>
+    <li>
+        Place chilis in bowl/ cover with plastic wrap to steam for 10 minutes.
+    </li>
+    <li>
+        Chop peppers
+    </li>
+    <li>
+        Blend peppers, cilantro, onion, and garlic together
+    </li>
+    <li>
+        melt butter, add pepper, stir in vegetable stock til thickened 3-4 min
+    </li>
+    Make spaghetti in large boiling salt water.
+    <li>
+        Add cream cheese to sauce and stir till melted.
+    </li>
+    <li>
+        Season with salt and pepper
+    </li>
+    <li>
+        Enjoy!
+    </li>
+
+</ol>
+</p>

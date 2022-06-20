@@ -1,1 +1,52 @@
-<h1> Broke Chicken </h1>
+<!-- Back To Home -->
+<h3> <a href="../index.html">Back </a> </h3>
+
+<h1>
+    <center> Broke Chicken </center>
+</h1>
+
+<!-- Inset Image -->
+<center> <img src="../Images/chicken.jpg"> </center>
+
+<p>
+<h2> <u> Recipe: </u> </h2>
+</p>
+<h3> Ingredients </h3>
+
+<ul>
+    <li>
+        Chicken Breast
+    </li>
+    <li>
+        Any Great Value Seasoning
+    </li>
+    <li>
+        A bell pepper
+    </li>
+
+</ul>
+
+<h3> Steps </h3>
+<ol>
+    <li>
+        Pound out/ Season the chicken
+    </li>
+    <li>
+        Pan sear chicken on low for 5 minutes
+    </li>
+    <li>
+        Cut chicken in the pan because it's taking too long
+    </li>
+    <li>
+        Dice the bellpepper
+    </li>
+    <li>
+        Plate the bellpepper
+    </li>
+    Put chicken onto of diced bellpepper
+    <li>
+        Enjoy!
+    </li>
+
+</ol>
+</p>

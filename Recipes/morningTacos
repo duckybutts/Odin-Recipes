@@ -1,1 +1,59 @@
-<h1> Morning Tacos </h1>
+<!-- Back To Home -->
+<h3> <a href="../index.html">Back </a> </h3>
+
+<h1>
+    <center> Morning Tacos </center>
+</h1>
+
+<!-- Inset Image -->
+<center> <img src="../Images/tacos.jpg"> </center>
+
+<p>
+<h2> <u> Recipe: </u> </h2>
+</p>
+<p>
+
+<h3> Ingredients </h3>
+
+<ul>
+    <li>
+        4 corn tortillas
+    </li>
+    <li>
+        1/2 avocado
+    </li>
+    <li>
+        4oz ribeye steak
+    </li>
+    <li>
+        1/4 cup cilantro
+    </li>
+    <li>
+        1/8 cup diced jalapenos
+    </li>
+</ul>
+
+<h3> Steps </h3>
+<ol>
+    <li>
+        Grill tortillas till crispy
+    </li>
+    <li>
+        Cook steak to medium-rare
+    </li>
+    <li>
+        Mix avocado, cilantro, and
+        jalapaneos into paste
+    </li>
+    <li>
+        Smear paste on each grilled tortilla
+    </li>
+    <li>
+        Place 1 oz of thinnly cut steak on each tortilla
+    </li>
+    <li>
+        Enjoy!
+    </li>
+
+</ol>
+</p>
